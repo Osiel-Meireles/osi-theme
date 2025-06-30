@@ -1,6 +1,7 @@
 # Osi Theme 🌙
 
-Este é um tema escuro feito para programar à noite com conforto, inspirado nas preferências do Osiel.
+Este é um tema escuro feito para programar à noite com conforto.
+Pensada para Devs acostumados com IDE's da JetBrains.
 
 ## 🎯 Características
 
